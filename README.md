@@ -26,19 +26,16 @@
   <a href="https://github.com/OliverOverend/gym-simplifiedtetris/releases">
     <img src="https://img.shields.io/github/release-date/OliverOverend/gym-simplifiedtetris?color=teal  &style=for-the-badge">
   </a>
-  <a href="https://github.com/OliverOverend/gym-simplifiedtetris/issues">
-    <img src="https://img.shields.io/github/issues-raw/OliverOverend/gym-simplifiedtetris?color=blueviolet&style=for-the-badge">
-  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ChrisDeCleene/nextjs-react-meetups/issues/new">Report Bug
   </a>
   ·
-  <a href="https://github.com/OliverOverend/gym-simplifiedtetris/issues/new?assignees=OliverOverend&labels=enhancement&late=FEATURE_REQUEST.md&title=%5BFEATURE%5D%3A">Request Feature
+  <a href="https://github.com/ChrisDeCleene/nextjs-react-meetups/issues/new">Request Feature
   </a>
   ·
-  <a href="https://github.com/OliverOverend/gym-simplifiedtetris/discussions/new">Suggestions
+  <a href="https://github.com/ChrisDeCleene/nextjs-react-meetups/issues/new">Suggestions
   </a>
 </p>
 
