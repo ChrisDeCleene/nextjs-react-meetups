@@ -40,7 +40,7 @@
 </p>
 
 > A meetup app created with React, NextJS and MongoDB. The purpose of this project was to learn how to build NextJS APIs to dynamically render data from MongoDB, as well as, create new meetups using MongoDB's node package.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://nextjs-react-meetups-fw1vimrs9-chrisdecleene.vercel.app/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 
